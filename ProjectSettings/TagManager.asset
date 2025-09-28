@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - ground
+  - Enemy
+  - Checkpoint
+  - background
+  - Boulder
+  - wall
+  - Coin
+  - mannnn
+  - Mannnn
+  - Key
+  - UpSpike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Foreground
+  - 
+  - Ground
+  - Wall
+  - Background
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3328838375
+    locked: 0
+  - name: Foreground
+    uniqueID: 473461535
+    locked: 0
+  - name: Player
+    uniqueID: 2836458883
+    locked: 0
+  - name: Ground
+    uniqueID: 737530099
+    locked: 0
+  m_RenderingLayers:
+  - Default
